@@ -5,3 +5,4 @@ console.lo("Feature FF");
 console.log("feature NO FF") ;
 console.log("Squash 1") ;
 console.log("Squash 2") ;
+console.log("Update from A");
